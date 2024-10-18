@@ -1,15 +1,17 @@
-<h2 align="left">Hey there! 🌟 I'm Chau Minh Duong, a cheerful web developer hailing from the beautiful land of Vietnam! 💻✨</h2>
+<h1 align="center">Hey there! 🌟 I'm Chau Minh Duong</h1>
+<h3 align="center">A cheerful web developer hailing from the beautiful land of Vietnam! 💻✨</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=choocapi&label=Profile%20views&color=f45d5d&style=flat" alt="choocapi" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choocapi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choocapi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🔭 I’m currently working on **Choocapi music player**
 
-###
+- 🌱 I’m currently learning **React and Tailwind CSS**
 
-<img align="right" height="150" src="https://i.imghippo.com/files/KEjhm1729262806.gif"  />
+- 💬 Ask me about **JS, NodeJS, ExpressJS**
+
+- 📫 How to reach me **chauminhduong.cmd@gmail.com**
+
+- ⚡ Fun fact **I love mustard candy (❁´◡`❁)**
 
 ###
 
@@ -58,8 +60,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/choocapi/choocapi/output/snake.svg" alt="Snake animation" />
+<img align="left" height="150" src="https://i.imghippo.com/files/KEjhm1729262806.gif"  />
 
 ###
