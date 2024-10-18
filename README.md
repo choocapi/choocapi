@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choocapi&label=Profile%20views&color=f45d5d&style=flat" alt="choocapi" /> </p>
 
-- 🔭 I’m currently working on **Choocapi music player**
-
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
 - 💬 Ask me about **JS, NodeJS, ExpressJS**
