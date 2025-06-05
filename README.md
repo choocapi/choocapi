@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choocapi&label=Profile%20views&color=f45d5d&style=flat" alt="choocapi" /> </p>
 
-- 🌱 I’m currently learning **React and Tailwind CSS**
+- 🌱 I’m currently learning **React and NodeJS**
 
-- 💬 Ask me about **JS, NodeJS, ExpressJS**
+- 💬 Ask me about **JS, React, React Native, NodeJS, ExpressJS**
 
 - 📫 How to reach me **chauminhduong.cmd@gmail.com**
 
