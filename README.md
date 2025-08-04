@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choocapi&label=Profile%20views&color=f45d5d&style=flat" alt="choocapi" /> </p>
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **React and React Native**
 
-- 💬 Ask me about **JS, React, React Native, NodeJS, ExpressJS**
+- 💬 Ask me about **JS, TS, React, React Native, ExpressJS**
 
 - 📫 How to reach me **chauminhduong.cmd@gmail.com**
 
@@ -47,9 +47,6 @@
   </a>
   <a href="https://www.facebook.com/duongg.minh.0556" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/choocapi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://discordapp.com/users/972408223321686116/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
